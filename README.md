@@ -22,8 +22,8 @@
 ## Contributing
     If you would like to contribute, you can create a pull request.
 
-## Tests
-![](https://arcane-forest-77094.herokuapp.com/)
+## Link
+[Fitness Tracker](https://arcane-forest-77094.herokuapp.com/)
 
 
     
