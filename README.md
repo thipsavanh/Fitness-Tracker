@@ -2,13 +2,6 @@
 
 ## Description
 An app designed to help users keep track of daily or weekly workouts.   
-
-## Table of Contents
-- [Installation](##-Installation)
-- [Usage](##-Usage)
-- [License](##-License)
-- [Contributing](##-Contributing)
-- [Link](##-Link)
     
 ## Installation
 Need Express and Mongoose.
